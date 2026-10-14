@@ -70,3 +70,7 @@ git clone https://github.com/zyKrip/obsidianMemory.git ~/.claude/skills/obsidian
 - Claude Code 本地 auto-memory 仅保留索引；Codex 直接使用 vault。
 
 本仓库提供 skill 与规约模板，不包含个人记忆正文、项目档案或会话日志。
+
+## 联系方式
+
+- QQ：1628345076
